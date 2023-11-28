@@ -1,0 +1,76 @@
+{
+  "question": [
+    {
+      "questionText": "Which of the following is not a .NET compatible language?",
+      "options": [
+        {
+          "text": "C#"
+        },
+        {
+          "text": "J#"
+        },
+        {
+          "text": "VB.NET"
+        },
+        {
+          "text": "Java",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following does the actual .Net code execute?",
+      "options": [
+        {
+          "text": "CLS"
+        },
+        {
+          "text": "MSIL"
+        },
+        {
+          "text": "CTS"
+        },
+        {
+          "text": "CLR",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "Which of the following is not true for .NET exception?",
+      "options": [
+        {
+          "text": "All exceptions in .NET are derived from Exception base class"
+        },
+        {
+          "text": "Exceptions can’t be generated programmatically",
+          "correct": true
+        },
+        {
+          "text": "We have system exceptions and application exceptions in .NET"
+        },
+        {
+          "text": "All of above"
+        }
+      ]
+    },
+    {
+      "questionText": "When does Garbage collector run?",
+      "options": [
+        {
+          "text": "Every one minute"
+        },
+        {
+          "text": "When application is running low of memory",
+          "correct": true
+        },
+        {
+          "text": "It runs randomly"
+        },
+        {
+          "text": "All of above"
+        }
+      ]
+    }
+  ]
+}
